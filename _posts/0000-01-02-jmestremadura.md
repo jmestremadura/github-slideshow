@@ -1,6 +1,6 @@
 ---
 layout: slide edited
-title: "Welcome to our edited second slide!"
+title: "Welcome to our second slide!"
 ---
-Your edted text
+Your text
 Use the left arrow to go back again!
